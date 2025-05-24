@@ -35,7 +35,7 @@ const App = () => {
   return (
     <>
     <Header onCartClick={()=>setCartCount(prev=>!prev)} count={count} />
-    <img className=' w-full h-[35rem]' src='UtkarshKitchen.png'/>
+    <img className=' w-full h-[35rem]' src='public/UtkarshKitchen.png'/>
     <div className='flex-wrap flex'>
       {
       user.map((item)=>(

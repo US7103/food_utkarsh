@@ -10,7 +10,7 @@ const Header = ({onCartClick,count}) => {
     <div className=' justify-around flex w-full bg-emerald-800 text-white text-xl'>
     <div className=' flex flex-row'>
     <h1 className=' mt-6'>Always For You & with You!</h1>
-    <img className=' h-[70px]' src='delboy.svg'/>
+    <img className=' h-[70px]' src='public/delboy.svg'/>
     <h1 className=' mt-6'>The Utkarsh Kitchen</h1>
     
     </div>
